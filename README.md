@@ -18,13 +18,13 @@ To Do:
 
 ---
 
-1. Add the `viewport` meta tag with `content="width=device-width, initial-scale=1` options to the `<head>`.
+1. Add the `viewport` meta tag with `content="width=device-width, initial-scale=1` options to the `<head>`. Done!
 
-2. Center horizontally and vertically the div with the class `hero-content` inside the `hero-container` parent div. Use flexbox to complete this challenge. 
+2. Center horizontally and vertically the div with the class `hero-content` inside the `hero-container` parent div. Use flexbox to complete this challenge. Done!
 
 *NOTE - Please check the article at the following site: https://css-tricks.com/centering-css-complete-guide/ for more information.
 
-3. Change the `:hover` background and border color for the class `.btn` in the div `hero-content` to the color: `#74b44a`. 
+3. Change the `:hover` background and border color for the class `.btn` in the div `hero-content` to the color: `#74b44a`. Done!
 
 4. Switch out cat photo in `About Me` section, with a photo of your own choosing. You must download and add the photo to the `img` folder 
 
