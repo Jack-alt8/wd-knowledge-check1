@@ -439,6 +439,21 @@ section p {
     line-height: 1.5;
 }
 
+.contact-container {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h5 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 36px;
+}
+
+figcaption {
+    font-size: 24px;
+    padding: 0.5em;
+    padding-top: 2em;
+}
+
 
 /* Lists and Navigation
 ========================================================================== */
@@ -473,6 +488,52 @@ footer {
 /* Forms
 ========================================================================== */
 
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Instagram */
+.fa-instagram {
+    background-color: hotpink;
+    color: white;
+}
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+/* YouTube */
+.fa-youtube {
+    background-color: red;
+    color: white;
+}
+
+/* Add a background color and some padding around the form */
+.contact-container {
+    border-radius: 5px;
+    background-color: lightgray;
+    padding: 20px;
+}
 
 /* Tables
 ========================================================================== */
